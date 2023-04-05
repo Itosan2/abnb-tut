@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/abnb-tut.git/static/css/main.073c9b0a.css",
-    "main.js": "/abnb-tut.git/static/js/main.49e32a61.js",
-    "static/js/787.f32fb7f5.chunk.js": "/abnb-tut.git/static/js/787.f32fb7f5.chunk.js",
-    "static/media/logo.svg": "/abnb-tut.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/abnb-tut.git/index.html",
-    "main.073c9b0a.css.map": "/abnb-tut.git/static/css/main.073c9b0a.css.map",
-    "main.49e32a61.js.map": "/abnb-tut.git/static/js/main.49e32a61.js.map",
-    "787.f32fb7f5.chunk.js.map": "/abnb-tut.git/static/js/787.f32fb7f5.chunk.js.map"
+    "main.css": "/abnb-tut/static/css/main.073c9b0a.css",
+    "main.js": "/abnb-tut/static/js/main.ce9dcd1e.js",
+    "static/js/787.f32fb7f5.chunk.js": "/abnb-tut/static/js/787.f32fb7f5.chunk.js",
+    "static/media/logo.svg": "/abnb-tut/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/abnb-tut/index.html",
+    "main.073c9b0a.css.map": "/abnb-tut/static/css/main.073c9b0a.css.map",
+    "main.ce9dcd1e.js.map": "/abnb-tut/static/js/main.ce9dcd1e.js.map",
+    "787.f32fb7f5.chunk.js.map": "/abnb-tut/static/js/787.f32fb7f5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.49e32a61.js"
+    "static/js/main.ce9dcd1e.js"
   ]
 }
