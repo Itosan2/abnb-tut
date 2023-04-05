@@ -69,6 +69,7 @@ body{
 .card{
     position: relative;
     font-size: 12px;
+    margin-bottom: 30px;
 }
 
 /* .card-stats{
