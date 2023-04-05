@@ -2,7 +2,7 @@
   "name": "abnb",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://itosan2.github.io/abnb-tut.git",
+  "homepage":"https://itosan2.github.io/abnb-tut",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
