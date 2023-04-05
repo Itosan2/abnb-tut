@@ -1,16 +1,13 @@
 {
   "files": {
-    "main.css": "/abnb-tut/static/css/main.073c9b0a.css",
-    "main.js": "/abnb-tut/static/js/main.ce9dcd1e.js",
-    "static/js/787.f32fb7f5.chunk.js": "/abnb-tut/static/js/787.f32fb7f5.chunk.js",
-    "static/media/logo.svg": "/abnb-tut/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/abnb-tut/static/css/main.90e58c91.css",
+    "main.js": "/abnb-tut/static/js/main.f06d7a3d.js",
     "index.html": "/abnb-tut/index.html",
-    "main.073c9b0a.css.map": "/abnb-tut/static/css/main.073c9b0a.css.map",
-    "main.ce9dcd1e.js.map": "/abnb-tut/static/js/main.ce9dcd1e.js.map",
-    "787.f32fb7f5.chunk.js.map": "/abnb-tut/static/js/787.f32fb7f5.chunk.js.map"
+    "main.90e58c91.css.map": "/abnb-tut/static/css/main.90e58c91.css.map",
+    "main.f06d7a3d.js.map": "/abnb-tut/static/js/main.f06d7a3d.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.ce9dcd1e.js"
+    "static/css/main.90e58c91.css",
+    "static/js/main.f06d7a3d.js"
   ]
 }
