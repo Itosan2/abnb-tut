@@ -1,13 +1,18 @@
 {
   "files": {
     "main.css": "/abnb-tut/static/css/main.90e58c91.css",
-    "main.js": "/abnb-tut/static/js/main.f06d7a3d.js",
+    "main.js": "/abnb-tut/static/js/main.e4b58399.js",
+    "static/media/photo-grid.png": "/abnb-tut/static/media/photo-grid.294d59b66b94e0e456cf.png",
+    "static/media/mountain-bike.png": "/abnb-tut/static/media/mountain-bike.e249d8a7c9dd6935df4c.png",
+    "static/media/wedding-photography.png": "/abnb-tut/static/media/wedding-photography.62dfa0af6d4f23912427.png",
+    "static/media/katie-zaferes.png": "/abnb-tut/static/media/katie-zaferes.8c39a93af3d2de2b3c27.png",
+    "static/media/airbnb-logo.png": "/abnb-tut/static/media/airbnb-logo.e4424517383d14a03a24.png",
     "index.html": "/abnb-tut/index.html",
     "main.90e58c91.css.map": "/abnb-tut/static/css/main.90e58c91.css.map",
-    "main.f06d7a3d.js.map": "/abnb-tut/static/js/main.f06d7a3d.js.map"
+    "main.e4b58399.js.map": "/abnb-tut/static/js/main.e4b58399.js.map"
   },
   "entrypoints": [
     "static/css/main.90e58c91.css",
-    "static/js/main.f06d7a3d.js"
+    "static/js/main.e4b58399.js"
   ]
 }
