@@ -1,18 +1,26 @@
 {
   "files": {
-    "main.css": "/abnb-tut/static/css/main.7de8c395.css",
-    "main.js": "/abnb-tut/static/js/main.e4b58399.js",
-    "static/media/photo-grid.png": "/abnb-tut/static/media/photo-grid.294d59b66b94e0e456cf.png",
-    "static/media/mountain-bike.png": "/abnb-tut/static/media/mountain-bike.e249d8a7c9dd6935df4c.png",
-    "static/media/wedding-photography.png": "/abnb-tut/static/media/wedding-photography.62dfa0af6d4f23912427.png",
-    "static/media/katie-zaferes.png": "/abnb-tut/static/media/katie-zaferes.8c39a93af3d2de2b3c27.png",
-    "static/media/airbnb-logo.png": "/abnb-tut/static/media/airbnb-logo.e4424517383d14a03a24.png",
-    "index.html": "/abnb-tut/index.html",
-    "main.7de8c395.css.map": "/abnb-tut/static/css/main.7de8c395.css.map",
-    "main.e4b58399.js.map": "/abnb-tut/static/js/main.e4b58399.js.map"
+    "main.css": "/portfolio/static/css/main.b6d57185.css",
+    "main.js": "/portfolio/static/js/main.e266f78d.js",
+    "static/js/787.9cc5e50a.chunk.js": "/portfolio/static/js/787.9cc5e50a.chunk.js",
+    "static/media/abnb-clone.png": "/portfolio/static/media/abnb-clone.f302815b9c97808df959.png",
+    "static/media/services-bg.jpg": "/portfolio/static/media/services-bg.f1ca14a06879defdb540.jpg",
+    "static/media/dev-jane-02.jpg": "/portfolio/static/media/dev-jane-02.aca21d13ec24a9ef8fec.jpg",
+    "static/media/devjane3.png": "/portfolio/static/media/devjane3.d9eccaef28892b9df43c.png",
+    "static/media/portfolio-05.jpg": "/portfolio/static/media/portfolio-05.e867313877ea90b691b8.jpg",
+    "static/media/portfolio-06.jpg": "/portfolio/static/media/portfolio-06.82aba07d20373354a31b.jpg",
+    "static/media/morning-pg.png": "/portfolio/static/media/morning-pg.1fa38a0584bdaa66f917.png",
+    "static/media/todolist1.png": "/portfolio/static/media/todolist1.a548d91251be701e3a9a.png",
+    "static/media/tenzies.png": "/portfolio/static/media/tenzies.081385bdfdeb9350d7d5.png",
+    "static/media/tictactoe.png": "/portfolio/static/media/tictactoe.ee3505f1564ea91f7448.png",
+    "static/media/social.png": "/portfolio/static/media/social.2624dbe83ee0587fc19e.png",
+    "index.html": "/portfolio/index.html",
+    "main.b6d57185.css.map": "/portfolio/static/css/main.b6d57185.css.map",
+    "main.e266f78d.js.map": "/portfolio/static/js/main.e266f78d.js.map",
+    "787.9cc5e50a.chunk.js.map": "/portfolio/static/js/787.9cc5e50a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7de8c395.css",
-    "static/js/main.e4b58399.js"
+    "static/css/main.b6d57185.css",
+    "static/js/main.e266f78d.js"
   ]
 }
